@@ -41,6 +41,26 @@ public class Main {
         System.out.println("The difference using double of" +doubleOperandA +"and" +doubleOperandB +"is" +doubleDifference);
         System.out.println("The quotient using double of" +doubleOperandA +"and" +doubleOperandB +"is" +doubleQuotient);
 
+        int numberOfFamilyMembers= 4;
+        boolean isItRaining= true;
+        double priceOfPerfume= 75;
+        double myFavoriteNumber= 4;
+        double myShoeSize= 7;
+        int birthMonth= 10;
+        String fullName= "Nya Diore Robinson";
+
+        //Print the variable values
+        System.out.println("The number of people in my family is: " +numberOfFamilyMembers);
+        System.out.println("Is it raining?" +isItRaining);
+        System.out.println("The price of perfume is: $" +priceOfPerfume);
+        System.out.println("My favorite number is: " +myFavoriteNumber);
+        System.out.println("My shoe size is: " +myShoeSize);
+        System.out.println("My birth month is: " +birthMonth);
+        System.out.println("My full name is: " +fullName);
+
+
+
+
 
 
     }
